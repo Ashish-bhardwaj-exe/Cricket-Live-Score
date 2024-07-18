@@ -1,0 +1,11 @@
+{
+    "name":"Score Extension ",
+    "version":"1.0.0",
+    "description":"scorecard of the cricket matches",
+    "manifest_version":3,
+    "author":"Ashish",
+    "action":{
+        "default_popup":"index.html",
+        "default_title":"Cricket Score"
+    }
+}
